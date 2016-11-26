@@ -1,6 +1,6 @@
 # e-Gizmo-Serial-Camera
 Sample code for Serial Camera
-
+<http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=36&search=serial+camera>
 Capture JPEG images and send them via Serial interface. This serial camera module makes it very easy for your microcontroller circuits to add image capture functions for various applications. VGA 640x480 image resolution, 115kbps UART rate.
 ![Imgur](http://i.imgur.com/wZY57nB.png)
 
@@ -25,3 +25,9 @@ Wiring Diagram
 ------
 
 ![Imgur](http://i.imgur.com/TO2ZNLh.jpg)
+
+UART interface
+------
+
+![Imgur](http://i.imgur.com/4VAIu7K.jpg)
+
